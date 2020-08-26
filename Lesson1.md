@@ -48,7 +48,7 @@ HTML tags are also non case-sensitive. This means you can use either upper or lo
 | `<p>` | This tag is a paragraph tag and is the most used tag on web pages |
 | `<div>` | Defines a section of divider in a document. They are used for organizing groups of other elements. |
 | `<br />` | This tag provides a line break and is typically used inside other element's data. |
-|
+
 <br>
 
 ## Basic content using lipsum
