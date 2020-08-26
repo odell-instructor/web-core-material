@@ -9,7 +9,7 @@
 
 ---
 
-### **What is HTML?**
+## What is HTML?
 HTML stands for **H**yper **T**ext **M**arkup **L**anguage and is the basic language for creating web pages. It consists ofa series of elements that a browser can follow to render the content for a given page. We will talk more about these elements shortly.
 
 ## The basic HTML Page
@@ -34,7 +34,7 @@ HTML stands for **H**yper **T**ext **M**arkup **L**anguage and is the basic lang
 |`<meta>`| They identify information about the HTML document such as viewport, device width and intial scale. More on this later.|
 |`<title>Page Title</title>` | The element defines that title of the webpage and is what you see in the browswer tab |
 |`<body> </body>` | This element serves as the container that has the main content of the webpage. All visible elements go into this element. |  
----
+
 <br>
 
 ## What are elements?
@@ -46,7 +46,7 @@ HTML tags are also non case-sensitive. This means you can use either upper or lo
 | ------------ | ------------------------------ |
 | `<h1>` to `<h6>` | These are heading tags that range from 1 to 6 with 1 being the largest size and 6 being the smallest |
 | `<p>` | This tag is a paragraph tag and is the most used tag on web pages |
-| `<div>` | Defines a section of divider in a document. They are used for organizing groups of other elements. |
+| `<div>` | Defines a section or divider in a document. They are used for organizing groups of other elements. |
 | `<br />` | This tag provides a line break and is typically used inside other element's data. |
 
 <br>
