@@ -4,7 +4,7 @@ This course material will serve as lessons in HTML5 and CSS3. Each lesson is bro
 
 While javascript is a primary use in web development, this course material does not focus on many javascript fundamentals. Included in this material will be exercises to help reinforce each lesson. Try them out on your own and check your work with the exercises in this repository.
 
-## [Lesson 1 - Introduction to HTML](Lesson1.md)
+## [Lesson 1 - Introduction to HTML](src/Lesson1.md)
 
 
 
